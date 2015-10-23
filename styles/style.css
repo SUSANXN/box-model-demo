@@ -6,12 +6,38 @@ aside.highlight {
     background-color:black;
 }
 
+/* change background color, center etc. */
+
 #homepage {
   width: 80%;
   margin: auto;
-  border: 2px solid black;
+  border: 8px solid black;
 }
 a:hover {
-  color: red;
+  color: ;
   font-size: 2em; 
+}
+#home {
+  width:50%/
+  margin: auto;
+  border: 3px solid green;
+}
+
+h1: hover { color: magenta; }
+a: visited { text-decoration: none; }
+header {
+    text-align: center;
+    width: 75%
+    margin: auto;
+}
+article {
+  width: 60%; 
+  margin: auto;
+}
+p:first-letter { 
+ font-size: 9em;  
+}
+footer {
+  boarder: 2px solid magent; 
+  border-radius: 25px 
 }
